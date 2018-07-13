@@ -24,3 +24,11 @@
 **Thoughts** : 
 
 **Link of Work:**  [Commit](https://github.com/LordSomen/100DaysOfML/commit/5cf906d86324c52dbd90896a57ee951befdcf0e3)
+
+## Day 3 : 
+
+**Today's Progress** : 
+
+**Thoughts** : 
+
+**Link of Work:** [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/first-steps-with-tensorflow/video-lecture)
