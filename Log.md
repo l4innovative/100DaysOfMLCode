@@ -6,6 +6,8 @@
 
 **Thoughts** : Hope this will be exiciting ,will help me in learning Machine Learning in a more effective way .
 
+**Reference**  : https://github.com/llSourcell/100_Days_of_ML_Code 
+
 
 ## Day 1 : 
 
